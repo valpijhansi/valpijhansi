@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Hi 👋, I'm Jhansi Vlpi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -23,24 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valpijhansi&show_icons=true&locale=en&layout=compact" alt="valpijhansi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valpijhansi&" alt="valpijhansi" /></p>
-=======
- Hi  👋 I'm Jhansi Valpi
- 
- 
-
-
-A passionate Full Stack Developer from India
-
-
-
-
-- 🌱 I’m currently learning **SpringBoot**
-- 💬 Ask me about **Java,HTML&CSS,JavaScript and MySQL**
-- 📫 How to reach me: valpijhansi@gmail.com
-- Connect with Me:
- https://www.linkedin.com/in/valpijhansi/
-  
-
-
->>>>>>> 3efce32195c10841109315f42746742a1094b6cf
 
