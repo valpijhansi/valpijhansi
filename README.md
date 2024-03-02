@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jhansi Vlpi</h1>
+<h1 align="center">Hi 👋, I'm Jhansi Valpi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently learning **Spring Framework, Spring boot & Microservices**
